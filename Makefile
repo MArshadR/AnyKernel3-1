@@ -1,8 +1,8 @@
-NAME ?= Xenon
+NAME ?= QuantumKernel
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := quasar-onclite
+CODE := 10.0-onclite
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
