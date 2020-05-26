@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Genom-Magic Kernel by mylove90 @ Xda-developers
+kernel.string=Xenon-kernel by MArshadR @ telegram
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
