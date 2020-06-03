@@ -2,9 +2,11 @@ NAME ?= QuantumKernel
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
+BUILD_CODE := 0001
+
 CODE := 10.0-onclite
 
-ZIP := $(NAME)-$(CODE)-$(DATE).zip
+ZIP := $(NAME)-$(CODE)-$(DATE)-$(BUILD_CODE).zip
 
 EXCLUDE := Makefile *.git* *.jar* *placeholder* *.md*
 
