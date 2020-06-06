@@ -1,8 +1,8 @@
-NAME ?= QuantumKernel
+NAME ?= QuantumKernel-CAF
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-BUILD_CODE := 0001
+BUILD_CODE := 0003
 
 CODE := 10.0-onclite
 

@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=QuantumKernel by MArshadR @ telegram
+kernel.string=QuantumKernel-CAF by MArshadR @ Telegram
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
