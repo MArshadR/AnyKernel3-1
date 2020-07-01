@@ -1,8 +1,8 @@
-NAME ?= Genom-Magic
+NAME ?= Quantum-X
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := ten-onclite
+CODE := ten-umi
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
